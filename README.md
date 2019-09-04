@@ -10,7 +10,7 @@ npm install --save-dev @sharyn/commands
 yarn add --dev @sharyn/commands
 ```
 
-Check the [**code directly**](https://github.com/sharynjs/sharyn-commands/blob/master/.gitignore) to see which commands are available.
+Check the [**code directly**](https://github.com/sharynjs/sharyn-commands/blob/master/index.js) to see which commands are available.
 
 <hr />
 
